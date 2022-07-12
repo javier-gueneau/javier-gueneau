@@ -5,7 +5,7 @@
 - 📫 How to reach me ... javiergueneau@gmail.com
 
 
-https://javier-gueneau.github.io/javier-gueneau/
+https://javier-gueneau.github.io/coding2/
 
 <!---
 javier-gueneau/javier-gueneau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
