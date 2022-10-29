@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @javier-gueneau
-- 👀 I’m interested in ... Learning Programming
-- 🌱 I’m currently learning ... Web Fundamentals
-- 💞️ I’m looking to collaborate on ... web apps
+- 👀 I’m interested in ... Coding.
+- 🌱 I’m currently learning ... Javascript.
+- 💞️ I’m looking to collaborate on ... Web Apps.
 - 📫 How to reach me ... javiergueneau@gmail.com
 
 
