@@ -3,9 +3,9 @@
 - I’m currently learning Javascript.
 - I’m looking to collaborate on Web Apps.
 
-How to reach me:
-javiergueneau@gmail.com
-https://javier-gueneau.github.io/profile3_react/
+- How to reach me:
+- javiergueneau@gmail.com
+- https://javier-gueneau.github.io/profile3_react/
 
 
 <!---
